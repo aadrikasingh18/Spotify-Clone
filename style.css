@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(187, 228, 248);
+    
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    font-family: 'Varela Round', sans-serif;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+    background-color: rgb(221, 43, 43);
+    height: 45px;
+}
+
+.brand img{
+    width: 45px;
+    margin-left: 4px;
+
+}
